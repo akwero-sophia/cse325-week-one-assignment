@@ -1,0 +1,7 @@
+Sales Summary
+Total Sales: USh800
+
+Details:
+----------------------------
+sales1.txt: USh350
+sales2.txt: USh450
